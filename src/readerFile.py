@@ -1,7 +1,7 @@
 import pdfplumber
 
 """
-Process text. Receives one text and try to find all data that we can interpret in terms of medicine.
+Process text. Receives one text and try to find all data.
 """
 
 
