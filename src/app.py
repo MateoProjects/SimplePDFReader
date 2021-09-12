@@ -22,6 +22,6 @@ if __name__ == "__main__":
             rd = ReaderFile(values['-IN2-'])
             text = rd.readFile()
             """
-            Your functions ho here for extract all information that you required
+            Put your functions here for extract all information that you required
             """
 
