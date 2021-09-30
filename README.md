@@ -1,5 +1,5 @@
 # SimplePDFReader
-A simple PDF Reader to add to your projects with Python when you required to read PDF and extract information. 
+A simple PDF Reader template to add to your projects with Python when you required to read PDF and extract information. 
 
 ## Getting Started
 
